@@ -1,5 +1,5 @@
 # TRP WWW
-- Strona internetowa przygotowana pod projekt 'MTATRUCKERS'
+- Strona internetowa przygotowana pod projekt 'TruckersRP'
 
 # Autor
 - satanik#1000
