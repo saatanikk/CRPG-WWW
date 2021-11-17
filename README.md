@@ -1,5 +1,5 @@
-# TRP WWW
-- Strona internetowa TruckersRP
+# CRPG WWW
+- Strona internetowa Casual-RPG.PL
 
 # Kontakt z autorem
 - satanik#1000
