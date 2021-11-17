@@ -1,6 +1,6 @@
 # TRP WWW
-- Strona internetowa przygotowana pod projekt 'TruckersRP'
+- Strona internetowa TruckersRP
 
-# Autor
+# Kontakt z autorem
 - satanik#1000
 - xsvtnnn@gmail.com
